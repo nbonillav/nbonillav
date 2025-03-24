@@ -68,12 +68,16 @@ Currently, exploring the world of Data Analysis.
 -   **Dollar Statistics:** [Link to Repository] - I’m still working on it.
 
 ## GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbonillav&show_icons=true&theme=radical&locale=en&layout=compact" alt="nbonillav" /></p>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbonillav&show_icons=true&theme=radical)](https://github.com/nbonillav)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nbonillav&show_icons=true&theme=radical&locale=en" alt="nbonillav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nbonillav&theme=radical&" alt="nbonillav" /></p>
 
 ## Connect with Me
 
 -   [LinkedIn](https://www.linkedin.com/in/natalia-bonilla-villalobos/)
+-   [Kaggle](https://kaggle.com/nbonillav12)
 -   [Email](mailto:nbonillav12@gmail.com)
 
 
