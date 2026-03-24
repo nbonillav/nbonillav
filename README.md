@@ -15,7 +15,9 @@ Currently, exploring the world of Data Analysis and Machine Learning.
 
 ## Projects
 
--   **Dollar Statistics:** [Link to Repository] - I’m still working on it.
+-   [Would you survived?](https://titanic-disaster-ml.streamlit.app/) -> Streamlit project
+-   [Dollar Statistics](https://www.notion.so/CR-Dollar-Currency-Analysis-1e52f751978180338130f168aa8defe4) -> Notion project
+-   
 
 ## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbonillav&show_icons=true&theme=radical&locale=en&layout=compact" alt="nbonillav" /></p>
